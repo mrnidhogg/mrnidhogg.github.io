@@ -4,7 +4,7 @@ SEOTitle: 黄小柴的博客 | HXc's Blog
 header-img: img/home-bg.jpg
 email: wdhchc@icloud.com
 description: "这里是黄小柴的博客 | 一个Pokemmo爱好者，LOL玩家, 柴犬爱好者，从零开始的伪程序猿。"
-keyword: "黄小柴, HXc, Mrnidhogg, 黄小柴的博客, HXc' Blog, 博客, 个人网站, 互联网, Web, Java, Python, Pokemmo, lol, 生活"
+keyword: "黄小柴, HXc, Mrnidhogg, 黄小柴的博客, HXc' Blog, 博客, 个人网站, 互联网, Web, Java, Python, Pokemmo, lol, 生活, Markdown"
 url: "https://mrnidhogg.github.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
